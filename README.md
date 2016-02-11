@@ -25,4 +25,4 @@ _1 TILs and counting..._
 
 ### Javascript
 
-- [Use Ternary Operator to add class](javascript/use-ternary-expression-to-add-class.md)
+- [Use Ternary Operator to add class](javascript/react/use-ternary-expression-to-add-class.md)
