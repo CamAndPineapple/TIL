@@ -10,3 +10,5 @@ You can create an alias in `~/.gitconfig` in the `[alias]` section like so:
 So, then to push to github:
 
 `git stpp dist origin gh-pages`
+
+Discovered via: https://gist.github.com/cobyism/4730490
