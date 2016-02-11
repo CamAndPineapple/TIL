@@ -7,7 +7,7 @@ over the year.
 
 Wholly inspired by this repo posted at Hackernews.com: https://github.com/jbranchaud/til
 
-_1 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _1 TILs and counting..._
 ### Git
 
 - [When git add isn't working](git/why-git-add-might-not-work-FEB1016.md)
+- [Deploy to gh-pages from dist folder](git/deploy-to-gh-pages-from-dist-folder-with-alias.md)
 
 ### Javascript
 
