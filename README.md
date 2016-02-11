@@ -21,9 +21,9 @@ _3 TILs and counting..._
 
 ### Git
 
-- [When git add isn't working](git/why-git-add-might-not-work-FEB1016.md)
-- [Deploy to gh-pages from dist folder](git/deploy-to-gh-pages-from-dist-folder-with-alias.md)
+- [When git add isn't working](git/why-git-add-might-not-work-FEB-10-2016.md)
+- [Deploy to gh-pages from dist folder](git/deploy-to-gh-pages-from-dist-folder-with-alias-FEB-11-2016.md)
 
 ### Javascript
 
-- [Use Ternary Operator to add class](javascript/react/use-ternary-expression-to-add-class.md)
+- [Use Ternary Operator to add class](javascript/react/use-ternary-expression-to-add-class-FEB-10-2016.md)
