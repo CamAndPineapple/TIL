@@ -23,6 +23,6 @@ _1 TILs and counting..._
 
 - [When git add isn't working](git/why-git-add-might-not-work-FEB1016.md)
 
-### Javascript 
+### Javascript
 
-- [Use Ternary Operator to add class](javascript/react/use-ternary-expression-to-add-class.md)
+- [Use Ternary Operator to add class](javascript/use-ternary-expression-to-add-class.md)
