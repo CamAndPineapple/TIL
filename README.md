@@ -31,7 +31,7 @@ _7 TILs and counting..._
 
 ### Vim
 - [D](vim/D.md)
-- [I](vim/md)
+- [I](vim/I.md)
 
 ### Node
 - [Difference of npm install flags](node/difference-of-npm-install-flags.md)
