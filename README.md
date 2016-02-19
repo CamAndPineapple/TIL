@@ -34,5 +34,5 @@ _7 TILs and counting..._
 - [I](vim/md)
 
 ### Node
-- [Difference of npm install flags](node/Difference-of-npm-install-flags.md)
+- [Difference of npm install flags](node/difference-of-npm-install-flags.md)
 - [What is a buffer?](node/what-is-a-buffer.md)
