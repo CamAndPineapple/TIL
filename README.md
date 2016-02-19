@@ -7,7 +7,7 @@ over the year.
 
 Wholly inspired by this repo posted at Hackernews.com: https://github.com/jbranchaud/til
 
-_3 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _3 TILs and counting..._
 * [JavaScript](#javascript)
 * [Mac](#mac)
 * [Vim](#vim)
+* [Node](#node)
 
 
 ### Git
@@ -27,3 +28,11 @@ _3 TILs and counting..._
 ### Javascript
 
 - [Use Ternary Operator to add class](javascript/react/use-ternary-expression-to-add-class-FEB-10-2016.md)
+
+### Vim
+- [D](vim/D.md)
+- [I](vim/md)
+
+### Node
+- [Difference of npm install flags](node/Difference-of-npm-install-flags.md)
+- [What is a buffer?](node/what-is-a-buffer.md)
