@@ -7,7 +7,7 @@ over the year.
 
 Wholly inspired by this repo posted at Hackernews.com: https://github.com/jbranchaud/til
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _7 TILs and counting..._
 
 - [When git add isn't working](git/why-git-add-might-not-work-FEB-10-2016.md)
 - [Deploy to gh-pages from dist folder](git/deploy-to-gh-pages-from-dist-folder-with-alias-FEB-11-2016.md)
+- [Removed untracked files for .gitignore](git/removed-untracked-files-for-gitignore.md)
 
 ### Javascript
 
